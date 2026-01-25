@@ -225,3 +225,15 @@
 0.0.0.0 webattachments.snapchat.com
 0.0.0.0 web.snapchat.com
 0.0.0.0 www.snapchat.com
+
+# discord
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+0.0.0.0 discord.media
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 media.discordapp.net
+0.0.0.0 images-ext-1.discordapp.net
+0.0.0.0 images-ext-2.discordapp.net
+0.0.0.0 discord-attachments-uploads-prd.storage.googleapis.com
